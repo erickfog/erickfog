@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋. 
 
+- My name is Erick Gomes, I have a bachelor's degree in Physics with an emphasis on Computational Physics from Universidade Federal Fluminense. 
 
 - 🚀  I am currently working with Data Science in the financial market and developing my master's research in computational physics.
 
@@ -17,6 +18,7 @@
   <img align="center" alt="Erick-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Erick-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Erick-Numpy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+    <img align="center" alt="Erick-git" height="40" width="40" src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor"> 
 </div>
 
 ##
