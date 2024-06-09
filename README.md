@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Gomes</h1>
-<h3 align="center">I am currently working with Data Science in the Financial Market and developing my Master's Research in Computational Physics.</h3>
+<h3 align="center">I am currently working as a Data Scientist/Machine Learning Engineer(MLOps) and developing my Master's Research in Computational Physics.</h3>
 
-- 🔭 I’m currently working on **data science project in open finance.**
+- 🔭 I’m currently working on **data science projects.**
 
 - 👨‍💻 All of my projects are available at [https://erickfog.github.io/portifolio_projetos/](https://erickfog.github.io/portifolio_projetos/)
 
