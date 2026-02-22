@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Erick Gomes</h1>
-<h3 align="center">Senior Data Scientist & AI/ML Engineer | Teaching Professional at FIAP & Ada Tech</h3>
+<h3 align="center">Staff Data Scientist & AI/ML Engineer | Teaching Professional at FIAP & Alura</h3>
 <h4 align="center">🤖 LLM/SLM Expert | 📚 MSc Computational Physics | 🎓 Educator & Researcher</h4>
 
 ### 🚀 About Me
-- 🔭 Currently working as **Senior Data Scientist at Mobi2buy** & **AI/ML Engineer**
+- 🔭 Currently working as **Staff Data Scientist at Serasa Experian** & **AI/ML Engineer**
 - 🎓 **MSc Computational Physics** from Universidade Federal Fluminense (UFF)
-- 👨‍🏫 **Professor** at FIAP (Deep Learning, Neural Networks, Generative AI) & Ada Tech (MLOps, Databases)
+- 👨‍🏫 **Professor** at FIAP (Deep Learning, Neural Networks, Generative AI) & Alura (MLOps, Databases)
 - 🏆 **1st Place IEL Talent Award** for innovative article on Open Finance & AI
 
 ### 💼 Current Roles
-- **Senior Data Scientist** @ Mobi2buy (Generative AI, MLOps, Multi-agent Systems)
+- **Staff AI/ML Engineer** @ Serasa Experian (Generative AI, MLOps, Multi-agent Systems)
 - **Undergraduate Professor** @ FIAP (Neural Networks, Deep Learning, Genetic Algorithms)
-- **Data Science Professor** @ Ada Tech (MLOps, Model Production, Database Systems)
+- **Data Science Professor** @ Alura (MLOps, Model Production, Database Systems)
 
 ### 🔬 Expertise Areas
 - **💬 Large Language Models (LLMs) & Small Language Models (SLMs)**
