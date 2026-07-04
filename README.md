@@ -22,7 +22,7 @@
 - **🎯 Model Deployment** (APIs, Containers, Monitoring, Compliance)
 
 ### 🌐 Portfolio & Projects
-- 👨‍💻 **All projects**: [https://erickfog.github.io/portifolio_projetos/](https://erickfog.github.io/portifolio_projetos/)
+- 👨‍💻 **Website**: [https://erickgomes.dev/](https://erickgomes.dev/)
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/erickfog/](https://www.linkedin.com/in/erickfog/)
 - 📫 **Email**: erickfog@id.uff.br
 
@@ -118,7 +118,7 @@
 <p align="left">
   <a href = "mailto:erickfg@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erickfog" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://erickfog.github.io/portifolio_projetos/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%231572B6?style=for-the-badge&logo=react&logoColor=cyan" target="_blank"></a>
+  <a href="https://erickgomes.dev/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%231572B6?style=for-the-badge&logo=react&logoColor=cyan" target="_blank"></a>
 </p>
 
 ---
